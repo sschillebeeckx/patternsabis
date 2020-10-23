@@ -8,6 +8,7 @@ private PrintingStrategy ps;
 		super(address);
 		this.ps=ps;
 	}
+
 	
 	public void print(Packet p) {
 		System.out.print("I (" + this.getAddress() + ") PRINTED your message: " + p.getContents()) ;
@@ -17,7 +18,6 @@ private PrintingStrategy ps;
 	@Override
 	public void handle(Packet p) {
 		this.print(p);
-		
 	}
 
 }

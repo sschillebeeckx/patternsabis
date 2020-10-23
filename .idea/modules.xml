@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch2InheritanceProliferation/Ch2InheritanceProliferation.iml" filepath="$PROJECT_DIR$/Ch2InheritanceProliferation/Ch2InheritanceProliferation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Adapter/Ch3Adapter.iml" filepath="$PROJECT_DIR$/Ch3Adapter/Ch3Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3ChainOfResponsibility/Ch3ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Ch3ChainOfResponsibility/Ch3ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Composite/Ch3Composite.iml" filepath="$PROJECT_DIR$/Ch3Composite/Ch3Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Decorator/Ch3Decorator.iml" filepath="$PROJECT_DIR$/Ch3Decorator/Ch3Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Facade/Ch3Facade.iml" filepath="$PROJECT_DIR$/Ch3Facade/Ch3Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3FactoryMethod/Ch3FactoryMethod.iml" filepath="$PROJECT_DIR$/Ch3FactoryMethod/Ch3FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Observer/Ch3Observer.iml" filepath="$PROJECT_DIR$/Ch3Observer/Ch3Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Singleton/Ch3Singleton.iml" filepath="$PROJECT_DIR$/Ch3Singleton/Ch3Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3Strategy/Ch3Strategy.iml" filepath="$PROJECT_DIR$/Ch3Strategy/Ch3Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch3TemplateMethod/Ch3TemplateMethod.iml" filepath="$PROJECT_DIR$/Ch3TemplateMethod/Ch3TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoExercise/DemoExercise.iml" filepath="$PROJECT_DIR$/DemoExercise/DemoExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise00/Exercise00.iml" filepath="$PROJECT_DIR$/Exercise00/Exercise00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise01/Exercise01.iml" filepath="$PROJECT_DIR$/Exercise01/Exercise01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise02/Exercise02.iml" filepath="$PROJECT_DIR$/Exercise02/Exercise02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise03/Exercise03.iml" filepath="$PROJECT_DIR$/Exercise03/Exercise03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04/Exercise04.iml" filepath="$PROJECT_DIR$/Exercise04/Exercise04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise05/Exercise05.iml" filepath="$PROJECT_DIR$/Exercise05/Exercise05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise06/Exercise06.iml" filepath="$PROJECT_DIR$/Exercise06/Exercise06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise07/Exercise07.iml" filepath="$PROJECT_DIR$/Exercise07/Exercise07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise08/Exercise08.iml" filepath="$PROJECT_DIR$/Exercise08/Exercise08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise09/Exercise09.iml" filepath="$PROJECT_DIR$/Exercise09/Exercise09.iml" />
+    </modules>
+  </component>
+</project>

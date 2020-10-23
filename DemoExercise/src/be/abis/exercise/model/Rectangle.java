@@ -5,10 +5,15 @@ public class Rectangle extends Shape {
     private double height;
     private double width;
 
+    public Rectangle(){}
+
+    public Rectangle(double height){
+        this.height=height;
+    }
 
     public Rectangle(double height, double width) {
 
-        this.height = height;
+        this(height);
         this.width = width;
     }
 

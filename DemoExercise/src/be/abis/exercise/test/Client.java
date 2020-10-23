@@ -1,9 +1,6 @@
 package be.abis.exercise.test;
 
-import be.abis.exercise.model.Circle;
-import be.abis.exercise.model.Rectangle;
-import be.abis.exercise.model.Shape;
-import be.abis.exercise.model.Triangle;
+import be.abis.exercise.model.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,11 +18,16 @@ public class Client {
         shapes.add(c);
         shapes.add(new Triangle("green",3,6));
 
+        shapes.add(new Square(3));
+
+
      /*   for (Shape s : shapes){
             System.out.println(s);
         } */
 
         shapes.forEach(System.out::println);
+
+
 
     }
 
